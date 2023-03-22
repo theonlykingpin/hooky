@@ -22,7 +22,7 @@ charset-normalizer==2.1.1
     # via requests
 click==8.1.3
     # via uvicorn
-cryptography==38.0.1
+cryptography==39.0.1
     # via hooky (pyproject.toml)
 deprecated==1.2.13
     # via
