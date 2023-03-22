@@ -12,7 +12,7 @@ async-timeout==4.0.2
     # via redis
 asyncer==0.0.1
     # via hooky (pyproject.toml)
-certifi==2022.6.15
+certifi==2022.12.7
     # via requests
 cffi==1.15.1
     # via
